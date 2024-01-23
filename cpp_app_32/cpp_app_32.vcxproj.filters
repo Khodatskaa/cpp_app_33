@@ -4,10 +4,21 @@
     <Filter Include="Main">
       <UniqueIdentifier>{2f83d7b5-af89-44bc-93fb-9fe3c5488ac1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Char_stack">
+      <UniqueIdentifier>{bf72cf9f-66c2-4c94-8269-22601728d575}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Main</Filter>
     </ClCompile>
+    <ClCompile Include="Char_stack.cpp">
+      <Filter>Char_stack</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Char_stack.h">
+      <Filter>Char_stack</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
